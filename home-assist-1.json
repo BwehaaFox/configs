@@ -1,16 +1,4 @@
-{
-  "hahah": [
-    "Комната какая то",
-    {
-      "1-hall_new": {
-        "ac_control_mode": true,
-      },
-      "wb-mr6cu_57": {
-        "radiator_enabled": true
-      },
-    }
-  ],
-  
+{  
   "hallMain": [
     "Имя комнаты",
     {
