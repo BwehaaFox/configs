@@ -42,7 +42,7 @@
         "ac_manual_mode_set_value": true,
         "ac_enabled": true,
         "radiator_enabled": true,
-        "air_temp_display": true
+        "air_temp_display": true,
      
         "air_target_temp": true,
   
