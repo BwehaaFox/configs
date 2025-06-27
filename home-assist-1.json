@@ -1,6 +1,6 @@
 {  
   "hallMain": [
-    "Имя комнаты",
+    "Холл",
     {
       "1-hall-new": {
         "ac_control_mode": true,
@@ -33,8 +33,8 @@
       }
     }
   ],
-  "hallMain2": [
-    "Имя комнатыssssss",
+  "masterBed": [
+    "Спальня",
     {
       "1-hall-new": {
         "ac_control_mode": true,
@@ -42,7 +42,6 @@
         "ac_manual_mode_set_value": true,
         "ac_enabled": true,
         "radiator_enabled": true,
-        "floor_enabled": true,
      
         "air_target_temp": true,
         "floor_target_temp": true,
@@ -52,18 +51,11 @@
         "floor_temp_decrease": true,
         "floor_temp_increase": true
       },
-      "wb-mr6cu_57": {
-        "floor_indicator_1": "K2"
+      "wb-mr6cu_81": {
+        "radiator_indicator_1": "K1"
       },
-      "wb-mr6cu_93": {
-        "radiator_indicator_1": "K4"
-      },
-      "1-warderobe-new": {
-        "air_temp_display": true,
-        "floor_temp_display": true
-      },
-      "zway-66": {
-        "battery": "Battery (66) 66-0-128"
+      "zway-52": {
+        "battery": "Battery (52) 52-0-128"
       }
     }
   ]
